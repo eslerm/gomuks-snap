@@ -21,7 +21,10 @@ apps:
   gomuks:
     command: bin/gomuks
     plugs:
+      - desktop
+      - home
       - network
+      - network-bind
 
 parts:
   gomuks:
