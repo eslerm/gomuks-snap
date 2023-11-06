@@ -1,9 +1,9 @@
 name: gomuks
 adopt-info: gomuks
+license:  AGPL-3.0
 summary: A TUI for Matrix.
 description: |
   A terminal Matrix client written in Go using mautrix and mauview.
-  https://maunium.net/go/gomuks/
 
 base: core22
 icon: icon.png
